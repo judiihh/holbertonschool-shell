@@ -1,2 +1,2 @@
 #! /bin/bash
-a readme file for this directory
+this is a file for this directory
